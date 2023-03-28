@@ -18,7 +18,6 @@
 - 📚 Conhecimento em: HTML/CSS, Java, Python.
 - 💻 À procura da minha primeira oportunidade Back-end no mundo Tech.
 - ➡ Pronouns: ele/dele
-- 📫 Contate-me no email: matheusbergamo@hotmail.com
 
 <div style="display: inline_block"><br>
 <h3 align="left">Contatos:</h1>
@@ -26,6 +25,6 @@
 <img align="left" height="30" width="40" alt="linkedin-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
    <a href = "mailto: matheusbergamo@hotmail.com">
-      <img height="30" alt="outlook.svg" src="outlook.icon">
+      <img height="30" alt="outlook.icon" src="outlook.svg">
       </a>
 </div>
