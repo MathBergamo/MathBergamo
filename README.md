@@ -22,10 +22,10 @@
 
 <div style="display: inline_block">
 <h3 align="left">Contatos:</h1>
-<a href = "https://www.linkedin.com/in/matheusbergamo/">
+<a href = "https://www.linkedin.com/in/matheusbergamo/" target="_blank" rel="noopener noreferrer">
 <img align="left" height="30" width="40" alt="linkedin-icon" src="linkedin.svg" />
 </a>
-   <a href = "mailto: matheusbergamo@hotmail.com">
+   <a href = "mailto: matheusbergamo@hotmail.com" target="_blank" rel="noopener noreferrer">
       <img height="30" width="40" alt="outlook.icon" src="outlook.svg">
       </a>
 </div>
