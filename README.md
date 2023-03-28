@@ -13,18 +13,19 @@
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>
-   
+<br>
+  
 - ☕ Atualmente estudando Java.
 - 📚 Conhecimento em: HTML/CSS, Java, Python.
 - 💻 À procura da minha primeira oportunidade Back-end no mundo Tech.
-- ➡ Pronouns: ele/dele
+- ➡ Pronomes: ele/dele
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <h3 align="left">Contatos:</h1>
 <a href = "https://www.linkedin.com/in/matheusbergamo/">
-<img align="left" height="30" width="40" alt="linkedin-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img align="left" height="30" width="40" alt="linkedin-icon" src="linkedin.svg" />
 </a>
    <a href = "mailto: matheusbergamo@hotmail.com">
-      <img height="30" alt="outlook.icon" src="outlook.svg">
+      <img height="30" width="40" alt="outlook.icon" src="outlook.svg">
       </a>
 </div>
