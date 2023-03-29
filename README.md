@@ -1,8 +1,8 @@
 ### Olá! Eu me chamo Matheus Bergamo. 😄
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MathBergamo&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathBergamo&layout=compact&langs_count=16&theme=noctis_minimus"/>
+  <img  height="180em" src="https://github-readme-stats-mathbergamo.vercel.app/api?username=MathBergamo&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats-mathbergamo.vercel.app/api/top-langs/?username=MathBergamo&layout=compact&langs_count=16&theme=noctis_minimus"/>
 </div>
 <br>
 <div  align="left"> 
