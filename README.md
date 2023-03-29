@@ -18,7 +18,6 @@
 - ☕ Atualmente estudando Java.
 - 📚 Conhecimento em: HTML/CSS, Java, Python.
 - 💻 À procura da minha primeira oportunidade Back-end no mundo Tech.
-- ➡ Pronomes: ele/dele
 
 <div style="display: inline_block">
 <h3 align="left">Contatos:</h1>
