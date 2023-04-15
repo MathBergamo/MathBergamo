@@ -15,7 +15,7 @@
    </div>
 <br>
   
-- ☕ Atualmente estudando Java.
+- ☕ Atualmente estudando Java/Spring
 - 📚 Conhecimento em: HTML/CSS, Java, Python.
 - 💻 À procura da minha primeira oportunidade Back-end no mundo Tech.
 
