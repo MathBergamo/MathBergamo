@@ -15,8 +15,8 @@
    </div>
 <br>
   
-- ☕ Atualmente estudando Java/Spring
-- 📚 Conhecimento em: HTML/CSS, Java, Python.
+- ☕ Atualmente estudando Java, Spring, MySQL.
+- 📚 Conhecimento em: HTML/CSS, Java, MySQL.
 - 💻 À procura da minha primeira oportunidade Back-end no mundo Tech.
 
 <div style="display: inline_block">
