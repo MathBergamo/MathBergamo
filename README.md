@@ -19,8 +19,8 @@
    </div>
 <br>
   
-- ☕ Atualmente estudando Java, Spring boot, Dockers.
-- 📚 Conhecimento em: HTML/CSS, Java, MySQL, Postgres, Spring boot.
+- ☕ Atualmente estudando Spring Boot, Rust.
+- 📚 Conhecimento em: HTML/CSS, Java, MySQL, Postgres, Spring boot, Docker.
 - 💻 À procura da minha primeira oportunidade Back-end no mundo Tech.
 
 <div style="display: inline_block">
