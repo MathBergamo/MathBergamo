@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Matheus Bergamo. 😄
+### Prazer, Matheus. 😄
 
 <div>
   <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathBergamo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,7 +20,7 @@
 <br>
   
 - ☕ Atualmente estudando Spring Boot, Rust, Django.
-- 📚 Conhecimentos: HTML/CSS, Java, Python, MySQL, Postgres, Spring boot, Docker.
+- 📚 Conhecimentos: HTML/CSS, Java, Python, MySQL, PostgreSQL, Spring Boot, Docker.
 - 💻 À procura da minha primeira oportunidade Back-end no mundo Tech.
 
 <div style="display: inline_block">
