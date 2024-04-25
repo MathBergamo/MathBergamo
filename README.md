@@ -20,7 +20,7 @@
 <br>
   
 - ☕ Atualmente estudando Spring Boot, Rust, Django, RabbitMQ
-- 📚 Conhecimentos: HTML/CSS, Java, Python, MySQL, PostgreSQL, Spring Boot, Docker.
+- 📚 Conhecimentos: HTML/CSS, Java, Python, MySQL, PostgreSQL, Spring Boot, Kafka, Docker.
 - 💻 Atuando como Desenvolvedor Java Jr na Sinqia
 
 <div style="display: inline_block">
