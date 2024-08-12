@@ -19,8 +19,7 @@
    </div>
 <br>
   
-- ☕ Atualmente estudando Spring Boot, Rust, Django, RabbitMQ
-- 📚 Conhecimentos: HTML/CSS, Java, Python, MySQL, PostgreSQL, Spring Boot, Kafka, Docker.
+- 📚 Conhecimentos: HTML/CSS, Java, Python, MySQL, PostgreSQL, Spring Boot, Kafka, Docker, Redis.
 - 💻 Engenheiro de Software na B3
 
 <div style="display: inline_block">
