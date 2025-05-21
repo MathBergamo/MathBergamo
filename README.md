@@ -19,7 +19,7 @@
    </div>
 <br>
   
-- 📚 Conhecimentos: HTML/CSS, Java, Python, MySQL, PostgreSQL, Spring Boot, Kafka, Docker, Redis.
+- 📚 Conhecimentos: Java, Python, MySQL, PostgreSQL, OracleDB, Spring Boot, Kafka, RabbitMQ, Docker, Redis, Kubernetes, AWS/OCI
 - 💻 Engenheiro de Software na B3
 
 <div style="display: inline_block">
